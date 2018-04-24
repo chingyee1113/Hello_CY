@@ -1,2 +1,3 @@
 # Hello_CY
-CY's notes on codes
+Testing 1,2,3. trying out new toy
+
